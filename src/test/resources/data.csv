@@ -1,0 +1,13 @@
+'registered user. bonus over high border',1677777,true,500
+'registered user. bonus under high border',1666666,true,499
+'not registered user. bonus under low border',9999,false,0
+'not registered user. bonus over low border',10000,false,1
+'registered user. bonus under limit',100060,true,30
+'registered user. bonus over high border',100000060,true,500
+'registered user. bonus under low border',3333,true,0
+'registered user. bonus over low border',3334,true,1
+'not registered user. bonus under limit',400000,false,40
+'not registered user. bonus over limit',5555555,false,500
+'not registered user. bonus under high border',4999999,false,499
+'not registered user. no bonus',0,false,0
+'registered user. no bonus',-50000,true,0
